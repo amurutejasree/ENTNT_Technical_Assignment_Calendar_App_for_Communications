@@ -1,7 +1,33 @@
 ## Deployment Link : https://communication-calender.vercel.app/
 
-##DASHBOARD
+## DASHBOARD
 ![image](https://github.com/user-attachments/assets/3c06701d-9855-4eb1-aab9-710d885fd34c)
+
+The dashboard of the **Communication Calendar** application provides an intuitive interface to track companies, recent interactions, upcoming planned communications, and their statuses for streamlined communication management.
+
+## Companies
+![image](https://github.com/user-attachments/assets/62a8f22f-3896-4498-ae51-55b989700b5a)
+
+On the Companies page, you can view, add, edit, and delete company.
+
+## Adding New Company
+![image](https://github.com/user-attachments/assets/917c5d90-25aa-494a-b638-7f35262bebe0)
+
+To add a new company, click on the "Add company" button, fill in the required fields.
+
+## Add Communication Method
+![image](https://github.com/user-attachments/assets/df5c7f26-081c-4fb5-a0bd-92a564bb3176)
+
+## Communication Methods
+ ![image](https://github.com/user-attachments/assets/e2f9f845-5983-404b-9181-3a24cf47fd54)
+on this page we can view methods of communication and method name
+ ## Communication Calender
+  ![image](https://github.com/user-attachments/assets/3004ad76-6239-47a9-a3aa-74b555e66618)
+## Due Communication
+ ![image](https://github.com/user-attachments/assets/fae43293-5543-4e92-9bba-db6ebc251ff5)
+
+## Navigation
+  ![image](https://github.com/user-attachments/assets/4fede945-ab8a-4de2-8334-893cf19da2af)
 
 ## Application Functionality
 
