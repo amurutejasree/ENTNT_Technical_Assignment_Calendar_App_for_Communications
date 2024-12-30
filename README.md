@@ -1,6 +1,6 @@
 ## Deployment Link : https://communication-calender.vercel.app/
 
-## DASHBOARD
+## Dashboard
 ![image](https://github.com/user-attachments/assets/3c06701d-9855-4eb1-aab9-710d885fd34c)
 
 The dashboard of the **Communication Calendar** application provides an intuitive interface to track companies, recent interactions, upcoming planned communications, and their statuses for streamlined communication management.
@@ -17,18 +17,20 @@ To add a new company, click on the "Add company" button, fill in the required fi
 
 ## Add Communication Method
 ![image](https://github.com/user-attachments/assets/df5c7f26-081c-4fb5-a0bd-92a564bb3176)
+here you can add the communication Method and details
 
 ## Communication Methods
  ![image](https://github.com/user-attachments/assets/e2f9f845-5983-404b-9181-3a24cf47fd54)
 on this page we can view methods of communication and method name
  ## Communication Calender
   ![image](https://github.com/user-attachments/assets/3004ad76-6239-47a9-a3aa-74b555e66618)
+  You can view and display the communication with expected delivery date by clicking a particular date on a calender
 ## Due Communication
  ![image](https://github.com/user-attachments/assets/fae43293-5543-4e92-9bba-db6ebc251ff5)
-
+The **Communication Calendar** dashboard highlights due communications by marking them as "Overdue," enabling users to prioritize and address missed or pending interactions efficiently.
 ## Navigation
   ![image](https://github.com/user-attachments/assets/4fede945-ab8a-4de2-8334-893cf19da2af)
-
+The **Communication Calendar** features a navigation bar with tabs for the **Dashboard**, **Calendar**, and **Admin** sections, allowing seamless access to communication tracking, scheduling, and administrative settings.
 ## Application Functionality
 
   1. Admin Module:
