@@ -1,12 +1,7 @@
-## Instruction for running the webApp:
-  1. Clone the repo
-  2. Navigate inside the folder in the terminal
-  3. Run npm install to install all the required librabries and dependencies.
-  4. Run npm run dev.
-  5. View port 5173 for viewing the live webApp.
-
 ## Deployment Link : https://communication-calender.vercel.app/
 
+##DASHBOARD
+![image](https://github.com/user-attachments/assets/3c06701d-9855-4eb1-aab9-710d885fd34c)
 
 ## Application Functionality
 
